@@ -1,0 +1,1 @@
+# InPixio-Photo-Maximizer-Pro-No-Trial
